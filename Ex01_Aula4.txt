@@ -1,0 +1,4 @@
+def area (comprimento,largura):
+    total = comprimento * largura
+     return total
+
